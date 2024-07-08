@@ -131,7 +131,7 @@ a:hover{
       auto-fit,
       minmax(340px,1fr)
    );
-   gap: 9px;
+   gap: 10px;
 }
 
 .publication::-webkit-scrollbar{
