@@ -12,7 +12,7 @@ linkPublicaciones.addEventListener('click',()=>{
    b.gridTemplateColumns= '0% 100%';
    c. gridTemplateColumns= `repeat(
     auto-fit,
-    minmax(400px,1fr)
+    minmax(370px,1fr)
  )`;
 
 })
