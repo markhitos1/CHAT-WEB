@@ -1,0 +1,52 @@
+
+.offcanvas{
+    background-color: aqua;
+}
+.offcanvas-header{
+    margin-top: -10px;
+    border-bottom: 1px solid black;
+}
+.offcanvas-body{
+    background-color: hwb(180 68% 2%);
+    overflow-x: hidden;
+}
+.offcanvas-body::-webkit-scrollbar{
+    width: 5px;
+    background-color: #646161;
+    border-radius: 20px;
+ }
+ .offcanvas-body::-webkit-scrollbar-thumb  {
+    background-color: #09C;
+    border-radius: 6px;
+   
+ }
+
+.offcanvas-title img{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+
+.yo{
+    margin: 40px 10px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.offcanvas-body .myPerfil-menu li{
+    display: block;
+    width: 100%;
+    height: 60px;
+    text-align: start;
+}
+
+.offcanvas-body .myPerfil-menu li:hover{
+    transition: .5s;
+    font-size: 19px;
+    border-bottom:1px solid black ;
+    box-shadow: 0px 6px 0px 0px #00000013;
+}

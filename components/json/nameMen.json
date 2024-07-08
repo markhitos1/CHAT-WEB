@@ -1,0 +1,118 @@
+[
+    {
+      "nombre": "Lautaro Martinez",
+      "hora": "10:30"
+    },
+    {
+      "nombre": "Santiago Gonzalez",
+      "hora": "14:45"
+    },
+    {
+      "nombre": "Lucas Rodriguez",
+      "hora": "16:20"
+    },
+    {
+      "nombre": "Mateo Fernandez",
+      "hora": "09:15"
+    },
+    {
+      "nombre": "Thiago Lopez",
+      "hora": "13:55"
+    },
+    {
+      "nombre": "Benjamin Perez",
+      "hora": "11:40"
+    },
+    {
+      "nombre": "Joaquin Garcia",
+      "hora": "15:10"
+    },
+    {
+      "nombre": "Agustin Sanchez",
+      "hora": "12:25"
+    },
+    {
+      "nombre": "Tomas Romero",
+      "hora": "17:35"
+    },
+    {
+      "nombre": "Facundo Torres",
+      "hora": "08:05"
+    },
+    {
+      "nombre": "Nicolas Ramirez",
+      "hora": "10:50"
+    },
+    {
+      "nombre": "Jeremias Rodriguez",
+      "hora": "14:15"
+    },
+    {
+      "nombre": "Bautista Fernandez",
+      "hora": "16:50"
+    },
+    {
+      "nombre": "Lisandro Morales",
+      "hora": "09:35"
+    },
+    {
+      "nombre": "Juan Ignacio Herrera",
+      "hora": "13:20"
+    },
+    {
+      "nombre": "Ignacio Silva",
+      "hora": "11:05"
+    },
+    {
+      "nombre": "Mariano Castro",
+      "hora": "15:30"
+    },
+    {
+      "nombre": "Gonzalo Rios",
+      "hora": "12:45"
+    },
+    {
+      "nombre": "Maximiliano Ortega",
+      "hora": "17:10"
+    },
+    {
+      "nombre": "Emilio Vega",
+      "hora": "07:55"
+    },
+    {
+      "nombre": "Rafael Torres",
+      "hora": "10:20"
+    },
+    {
+      "nombre": "Roberto Rosales",
+      "hora": "14:35"
+    },
+    {
+      "nombre": "Hector Mendoza",
+      "hora": "16:00"
+    },
+    {
+      "nombre": "Eduardo Soto",
+      "hora": "09:45"
+    },
+    {
+      "nombre": "Cristian Morales",
+      "hora": "13:05"
+    },
+    {
+      "nombre": "Sebastian Medina",
+      "hora": "11:30"
+    },
+    {
+      "nombre": "Andres Ferreira",
+      "hora": "15:50"
+    },
+    {
+      "nombre": "Fernando Paredes",
+      "hora": "12:15"
+    },
+    {
+      "nombre": "Pablo Olivera",
+      "hora": "17:40"
+    }
+  ]
